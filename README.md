@@ -32,7 +32,7 @@ Clone the repository using:
 * git clone https://github.com/kslazykv/assignment_1.git
 
 Install all required libraries and dependencies:
-* npm install
+* npm install --force
 
 Test the assignment using:
 * npm test
